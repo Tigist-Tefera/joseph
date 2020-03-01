@@ -5,12 +5,11 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.androidcodegeeks.usermanagement.ViewDetailActivity"
-    android:background="#2196F3">
+    android:background="#718595">
 
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@drawable/info"
         android:padding="20dp">
 
         <TextView
